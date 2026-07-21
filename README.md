@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro Henrique!
 
- Estagiário/Desenvolvedor de Software | 🎓 Graduando em Ciência da Computação na FIAP
+🎓 Graduando em Ciência da Computação na FIAP
 
 ---
 
